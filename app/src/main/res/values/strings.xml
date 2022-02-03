@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaKotlin</string>
+    <string name="placeholderet">Escribe algo</string>
+    <string name="hola">Hello Kotlin!</string>
+</resources>
